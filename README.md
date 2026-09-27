@@ -1,5 +1,9 @@
 # Snake vs. Ball
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-3776AB?logo=python&logoColor=white)
+![Dependencies: none](https://img.shields.io/badge/dependencies-none-2ea44f)
+
 A terminal territory-capture game, written by Claude Code.
 
 You are a snake living on the border of a dark field. Step off solid ground
