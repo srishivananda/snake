@@ -1,0 +1,11 @@
+# Snake vs. Ball has no third-party dependencies.
+#
+# Everything it imports (curses, json, os, random, sys, tempfile, time,
+# pathlib, typing) ships with CPython.  This file exists so that the usual
+# `pip install -r requirements.txt` is a harmless no-op and so the runtime
+# requirement is written down in one place:
+#
+#   Python >= 3.8 with the `curses` module (present in the python3 that
+#   Apple's Command Line Tools and Homebrew both install on macOS).
+#
+# Run ./install.sh to check for and set up Python, then `snake` to play.
