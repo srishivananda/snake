@@ -33,7 +33,7 @@ little longer polishing it, hardening the score file, and writing the
 installer, but the game itself was there almost immediately.
 
 It is a small thing. But sitting in front of it, with the same "one more go"
-feeling I had at fourteen, was worth far more than it cost. This repository 
+feeling I had at nineteen, was worth far more than it cost. This repository 
 is here mostly as a commemoration of those good old times.
 
 ## Playing
