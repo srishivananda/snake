@@ -18,10 +18,10 @@ faster. A good run earns a spot on a top-ten table that survives between games.
 
 This was not a project. It was a vibing session.
 
-In the early 90s, in India, I had a PC with an 8088 in it, and my friends and
-I spent more hours than we should have on the handful of games that ran on
-it. One of them was a territory game exactly like this: carve a line, trap
-the bouncing balls into an ever smaller pocket, lose everything when a ball
+In the early 90s, in India, I had a personal computer with an 8088 in it, and my 
+friends and I spent more hours than we should have on the handful of games that 
+ran on it. One of them was a territory game exactly like this: carve a line, 
+trap the bouncing balls into an ever smaller pocket, lose everything when a ball
 clipped your trail with 74% painted. We argued over the high-score table.
 We passed the keyboard around. We knew every quirk of how the balls bounced.
 
@@ -33,8 +33,8 @@ little longer polishing it, hardening the score file, and writing the
 installer, but the game itself was there almost immediately.
 
 It is a small thing. But sitting in front of it, with the same "one more go"
-feeling I had at fourteen, was worth far more than it cost. This repository
-is here mostly so I do not lose it again.
+feeling I had at fourteen, was worth far more than it cost. This repository 
+is here mostly as a commemoration of those good old times.
 
 ## Playing
 
