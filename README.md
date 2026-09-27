@@ -36,6 +36,8 @@ It is a small thing. But sitting in front of it, with the same "one more go"
 feeling I had at nineteen, was worth far more than it cost. This repository 
 is here mostly as a commemoration of those good old times.
 
+<img width="1470" height="853" alt="image" src="https://github.com/user-attachments/assets/a033bd42-0449-488f-a424-abd9a04e1780" />
+
 ## Playing
 
 | Key                    | Action                    |
